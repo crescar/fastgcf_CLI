@@ -1,0 +1,73 @@
+{
+  "name": "fastgcf",
+  "version": "1.0.0",
+  "description": "TypeScript CLI and multi-function Express/GCP framework. Scaffolds Google Cloud Function / Cloud Run HTTP handlers, preHandlers, auto-generates OpenAPI 3.0 / Swagger docs from Zod, and bundles with esbuild.",
+  "main": "bin/fastgcf.js",
+  "type": "module",
+  "bin": {
+    "fastgcf": "bin/fastgcf.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "assets",
+    "README.md",
+    "README.es.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "npm run smoke",
+    "smoke": "node --test tests/cli.smoke.test.js"
+  },
+  "keywords": [
+    "gcp",
+    "google-cloud-platform",
+    "google-cloud-functions",
+    "cloud-run",
+    "cloud-run-api",
+    "gcp-cli",
+    "gcp-functions-generator",
+    "express",
+    "express-5",
+    "typescript",
+    "zod",
+    "zod-to-openapi",
+    "openapi",
+    "openapi-3",
+    "swagger",
+    "swagger-ui",
+    "esbuild",
+    "prehandlers",
+    "middleware",
+    "rest-api",
+    "http-functions",
+    "serverless-gcp",
+    "microservices",
+    "cloud-native",
+    "nodejs",
+    "cli",
+    "scaffold",
+    "boilerplate",
+    "code-generator",
+    "ai-agent-friendly",
+    "llm-friendly"
+  ],
+  "author": "Luis Crespo <crescar64@gmail.com> (https://github.com/crescar)",
+  "license": "MIT",
+  "dependencies": {
+    "@asteasolutions/zod-to-openapi": "^7.3.0",
+    "clear-cli": "^2.0.0",
+    "cli-progress": "^3.12.0",
+    "commander": "^14.0.3",
+    "dotenv": "^16.4.7",
+    "enquirer": "^2.4.1",
+    "esbuild": "^0.25.0",
+    "express": "^5.1.0",
+    "figlet": "^1.8.0",
+    "nodemon": "^3.1.9",
+    "picocolors": "^1.1.1",
+    "swagger-ui-express": "^5.0.1",
+    "zod": "^3.24.2"
+  }
+}
