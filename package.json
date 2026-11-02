@@ -1,6 +1,6 @@
 {
   "name": "@crescar/fastgcf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript CLI and multi-function Express/GCP framework. Scaffolds Google Cloud Function / Cloud Run HTTP handlers, preHandlers, auto-generates OpenAPI 3.0 / Swagger docs from Zod, and bundles with esbuild.",
   "main": "bin/fastgcf.js",
   "type": "module",
