@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/fastgcf"><img src="https://img.shields.io/npm/v/fastgcf.svg?style=flat-square&color=blue" alt="Versión npm"></a>
-  <a href="https://www.npmjs.com/package/fastgcf"><img src="https://img.shields.io/npm/dm/fastgcf.svg?style=flat-square&color=brightgreen" alt="Descargas npm"></a>
+  <a href="https://www.npmjs.com/package/@crescar/fastgcf"><img src="https://img.shields.io/npm/v/fastgcf.svg?style=flat-square&color=blue" alt="Versión npm"></a>
+  <a href="https://www.npmjs.com/package/@crescar/fastgcf"><img src="https://img.shields.io/npm/dm/fastgcf.svg?style=flat-square&color=brightgreen" alt="Descargas npm"></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-%3E%3D20.x-green.svg?style=flat-square" alt="Versión Node"></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-5.x-blue.svg?style=flat-square" alt="TypeScript"></a>
   <a href="https://cloud.google.com/functions"><img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Run%20%7C%20Functions-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
